@@ -2,7 +2,7 @@
 
 In this project, I will be using the movie lens and tmdb dataset that has been uploaded here. We will first try to recommend a movie based on various parameters such as movie parameters and user behaviour and so on. Then we will look into what goes into making a hit movie in a very brief span.
 
-![Dataset here](https://drive.google.com/file/d/1YP6xfL8hDpuRgbwaPPhbOmNYL6Hzsc61/view?usp=sharing)
+[Dataset here](https://drive.google.com/file/d/1YP6xfL8hDpuRgbwaPPhbOmNYL6Hzsc61/view?usp=sharing)
 
 Setup:
 1. Download the dataset
