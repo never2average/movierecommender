@@ -13,7 +13,7 @@ Setup:
 
 I will not go into much detail as the notebooks themselves are very extensively documented. They are standard jupyter notebooks and require only a few extra installations.
 
-Go to your anaconda navugator and install:
+Go to your anaconda navigator and install:
 1. scikit-surprise
 2. wordcloud
 3. plotly
